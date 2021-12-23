@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/JVAN/FinalProjects2/app/src/main/res/drawable-v24/ic_logout.xml" value="0.24259259259259258" />
+        <entry key="..\:/JVAN/FinalProjects2/app/src/main/res/drawable-v24/side_nav_bar.xml" value="0.2703125" />
+        <entry key="..\:/JVAN/FinalProjects2/app/src/main/res/drawable/btnlogin.xml" value="0.1" />
+        <entry key="..\:/JVAN/FinalProjects2/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.1" />
+        <entry key="..\:/JVAN/FinalProjects2/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.1" />
+        <entry key="..\:/JVAN/FinalProjects2/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.1" />
+        <entry key="..\:/JVAN/FinalProjects2/app/src/main/res/drawable/ic_staff.xml" value="0.19814814814814816" />
+        <entry key="..\:/JVAN/FinalProjects2/app/src/main/res/drawable/input_text.xml" value="0.1" />
+        <entry key="..\:/JVAN/FinalProjects2/app/src/main/res/layout-w1240dp/list_item.xml" value="0.2" />
+        <entry key="..\:/JVAN/FinalProjects2/app/src/main/res/layout/activity_about.xml" value="0.2" />
+        <entry key="..\:/JVAN/FinalProjects2/app/src/main/res/layout/activity_accept_orders.xml" value="0.25416666666666665" />
+        <entry key="..\:/JVAN/FinalProjects2/app/src/main/res/layout/activity_admin_login.xml" value="0.264" />
+        <entry key="..\:/JVAN/FinalProjects2/app/src/main/res/layout/activity_admin_page.xml" value="0.264" />
+        <entry key="..\:/JVAN/FinalProjects2/app/src/main/res/layout/activity_books.xml" value="0.25416666666666665" />
+        <entry key="..\:/JVAN/FinalProjects2/app/src/main/res/layout/activity_bottom_wear.xml" value="0.25416666666666665" />
+        <entry key="..\:/JVAN/FinalProjects2/app/src/main/res/layout/activity_clothing.xml" value="0.25416666666666665" />
+        <entry key="..\:/JVAN/FinalProjects2/app/src/main/res/layout/activity_current_order_status.xml" value="0.2" />
+        <entry key="..\:/JVAN/FinalProjects2/app/src/main/res/layout/activity_display_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/JVAN/FinalProjects2/app/src/main/res/layout/activity_electronics.xml" value="0.25416666666666665" />
+        <entry key="..\:/JVAN/FinalProjects2/app/src/main/res/layout/activity_formals.xml" value="0.25416666666666665" />
+        <entry key="..\:/JVAN/FinalProjects2/app/src/main/res/layout/activity_home_page.xml" value="0.25416666666666665" />
+        <entry key="..\:/JVAN/FinalProjects2/app/src/main/res/layout/activity_login.xml" value="0.1802536231884058" />
+        <entry key="..\:/JVAN/FinalProjects2/app/src/main/res/layout/activity_login_menu.xml" value="0.4" />
+        <entry key="..\:/JVAN/FinalProjects2/app/src/main/res/layout/activity_main.xml" value="0.10400000000000001" />
+        <entry key="..\:/JVAN/FinalProjects2/app/src/main/res/layout/activity_mens_clothing.xml" value="0.25416666666666665" />
+        <entry key="..\:/JVAN/FinalProjects2/app/src/main/res/layout/activity_menu_utama_users.xml" value="0.25416666666666665" />
+        <entry key="..\:/JVAN/FinalProjects2/app/src/main/res/layout/activity_other_items.xml" value="0.25416666666666665" />
+        <entry key="..\:/JVAN/FinalProjects2/app/src/main/res/layout/activity_place_order.xml" value="0.25416666666666665" />
+        <entry key="..\:/JVAN/FinalProjects2/app/src/main/res/layout/activity_shoes.xml" value="0.25416666666666665" />
+        <entry key="..\:/JVAN/FinalProjects2/app/src/main/res/layout/activity_staff_add.xml" value="0.24010416666666667" />
+        <entry key="..\:/JVAN/FinalProjects2/app/src/main/res/layout/activity_staff_list.xml" value="0.10925925925925926" />
+        <entry key="..\:/JVAN/FinalProjects2/app/src/main/res/layout/activity_staff_login.xml" value="0.1" />
+        <entry key="..\:/JVAN/FinalProjects2/app/src/main/res/layout/activity_stock_add.xml" value="0.25416666666666665" />
+        <entry key="..\:/JVAN/FinalProjects2/app/src/main/res/layout/activity_tshirts.xml" value="0.25416666666666665" />
+        <entry key="..\:/JVAN/FinalProjects2/app/src/main/res/layout/activity_user_login.xml" value="0.125" />
+        <entry key="..\:/JVAN/FinalProjects2/app/src/main/res/layout/activity_user_register.xml" value="0.15428571428571428" />
+        <entry key="..\:/JVAN/FinalProjects2/app/src/main/res/layout/activity_user_reset_password.xml" value="0.25416666666666665" />
+        <entry key="..\:/JVAN/FinalProjects2/app/src/main/res/layout/activity_womens_clothing.xml" value="0.25416666666666665" />
+        <entry key="..\:/JVAN/FinalProjects2/app/src/main/res/layout/admin_app_bar_main.xml" value="0.1" />
+        <entry key="..\:/JVAN/FinalProjects2/app/src/main/res/layout/admin_content_main.xml" value="0.1" />
+        <entry key="..\:/JVAN/FinalProjects2/app/src/main/res/layout/admin_fragment_books.xml" value="0.25416666666666665" />
+        <entry key="..\:/JVAN/FinalProjects2/app/src/main/res/layout/admin_fragment_cloth.xml" value="0.25416666666666665" />
+        <entry key="..\:/JVAN/FinalProjects2/app/src/main/res/layout/admin_fragment_dashboard.xml" value="0.1" />
+        <entry key="..\:/JVAN/FinalProjects2/app/src/main/res/layout/admin_fragment_elect.xml" value="0.25416666666666665" />
+        <entry key="..\:/JVAN/FinalProjects2/app/src/main/res/layout/admin_fragment_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/JVAN/FinalProjects2/app/src/main/res/layout/admin_fragment_items.xml" value="0.25416666666666665" />
+        <entry key="..\:/JVAN/FinalProjects2/app/src/main/res/layout/admin_fragment_staff.xml" value="0.2" />
+        <entry key="..\:/JVAN/FinalProjects2/app/src/main/res/layout/admin_nav_header_main.xml" value="0.24818840579710144" />
+        <entry key="..\:/JVAN/FinalProjects2/app/src/main/res/layout/app_bar.xml" value="0.1" />
+        <entry key="..\:/JVAN/FinalProjects2/app/src/main/res/layout/content_home_page.xml" value="0.1" />
+        <entry key="..\:/JVAN/FinalProjects2/app/src/main/res/layout/fragment_gallery.xml" value="0.1" />
+        <entry key="..\:/JVAN/FinalProjects2/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/JVAN/FinalProjects2/app/src/main/res/layout/fragment_send.xml" value="0.1" />
+        <entry key="..\:/JVAN/FinalProjects2/app/src/main/res/layout/fragment_share.xml" value="0.1" />
+        <entry key="..\:/JVAN/FinalProjects2/app/src/main/res/layout/fragment_slideshow.xml" value="0.1" />
+        <entry key="..\:/JVAN/FinalProjects2/app/src/main/res/layout/fragment_tools.xml" value="0.1" />
+        <entry key="..\:/JVAN/FinalProjects2/app/src/main/res/layout/list_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/JVAN/FinalProjects2/app/src/main/res/layout/nav_header_home_page.xml" value="0.1" />
+        <entry key="..\:/JVAN/FinalProjects2/app/src/main/res/layout/staff_layout.xml" value="0.1" />
+        <entry key="..\:/JVAN/FinalProjects2/app/src/main/res/layout/user_app_bar_main.xml" value="0.14356884057971014" />
+        <entry key="..\:/JVAN/FinalProjects2/app/src/main/res/layout/user_content_main.xml" value="0.2" />
+        <entry key="..\:/JVAN/FinalProjects2/app/src/main/res/layout/user_fragment_home.xml" value="0.1" />
+        <entry key="..\:/JVAN/FinalProjects2/app/src/main/res/layout/user_nav_header_main.xml" value="0.264" />
+        <entry key="..\:/JVAN/FinalProjects2/app/src/main/res/menu/activity_admin_drawer.xml" value="0.25416666666666665" />
+        <entry key="..\:/JVAN/FinalProjects2/app/src/main/res/menu/activity_home_page_drawer.xml" value="0.1" />
+        <entry key="..\:/JVAN/FinalProjects2/app/src/main/res/menu/activity_user_drawer.xml" value="0.4" />
+        <entry key="..\:/JVAN/FinalProjects2/app/src/main/res/menu/bottom_nav_menu.xml" value="0.16" />
+        <entry key="..\:/JVAN/FinalProjects2/app/src/main/res/menu/home_page.xml" value="0.25416666666666665" />
+        <entry key="..\:/JVAN/FinalProjects2/app/src/main/res/menu/option_menu.xml" value="0.1" />
+        <entry key="..\:/JVAN/FinalProjects2/app/src/main/res/menu/user.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
