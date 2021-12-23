@@ -1,0 +1,308 @@
+{
+  "Users" : {
+    "tsSBezCqKCePhy2lvuHDRVfVdg22" : {
+      "age" : "20",
+      "email" : "daniakhmadfauzi@gmail.com",
+      "fullname" : "Dani"
+    }
+  },
+  "login" : {
+    "admin1" : {
+      "as" : "admin",
+      "password" : "admin123",
+      "username" : "admin1"
+    },
+    "admin2" : {
+      "as" : "admin",
+      "password" : "admin123",
+      "username" : "admin2"
+    }
+  },
+  "staffReg" : {
+    "-MrRMKOj-GSbPkutcjZc" : {
+      "id" : "-MrRMKOj-GSbPkutcjZc",
+      "password" : "dina123",
+      "staffname" : "dina"
+    },
+    "-MrRN3eIgNtWrl0pvUfL" : {
+      "id" : "-MrRN3eIgNtWrl0pvUfL",
+      "password" : "yustya123",
+      "staffname" : "yustya"
+    },
+    "-MrRkqwp3x_tiDjnsTJq" : {
+      "id" : "-MrRkqwp3x_tiDjnsTJq",
+      "password" : "aufa123",
+      "staffname" : "aufaa"
+    },
+    "-MrRnPQJ-JhEiM0znuwB" : {
+      "id" : "-MrRnPQJ-JhEiM0znuwB",
+      "password" : "rara123",
+      "staffname" : "rara"
+    },
+    "-MrRpRsa_3uKzc9ZCKpS" : {
+      "id" : "-MrRpRsa_3uKzc9ZCKpS",
+      "password" : "pradina123",
+      "staffname" : "pradina"
+    }
+  },
+  "stocksReg" : {
+    "B31" : {
+      "currentStockAvailaible" : 100,
+      "id" : "B31",
+      "itemName" : "Buku 1",
+      "item_id" : 31
+    },
+    "B32" : {
+      "currentStockAvailaible" : 29,
+      "id" : "B32",
+      "itemName" : "Buku 2",
+      "item_id" : 32
+    },
+    "B33" : {
+      "currentStockAvailaible" : 90,
+      "id" : "B33",
+      "itemName" : "Buku 3",
+      "item_id" : 33
+    },
+    "B34" : {
+      "currentStockAvailaible" : 24,
+      "id" : "B34",
+      "itemName" : "Buku 4",
+      "item_id" : 34
+    },
+    "B35" : {
+      "currentStockAvailaible" : 38,
+      "id" : "B35",
+      "itemName" : "Buku 5",
+      "item_id" : 35
+    },
+    "B36" : {
+      "currentStockAvailaible" : 94,
+      "id" : "B36",
+      "itemName" : "Buku 6",
+      "item_id" : 36
+    },
+    "E21" : {
+      "currentStockAvailaible" : 93,
+      "id" : "E21",
+      "itemName" : "Elect 1",
+      "item_id" : 21
+    },
+    "E22" : {
+      "currentStockAvailaible" : 87,
+      "id" : "E22",
+      "itemName" : "Elect 2",
+      "item_id" : 22
+    },
+    "E23" : {
+      "currentStockAvailaible" : 31,
+      "id" : "E23",
+      "itemName" : "Elect 3",
+      "item_id" : 23
+    },
+    "E25" : {
+      "currentStockAvailaible" : 71,
+      "id" : "E25",
+      "itemName" : "Elect 5",
+      "item_id" : 25
+    },
+    "E26" : {
+      "currentStockAvailaible" : 61,
+      "id" : "E26",
+      "itemName" : "Elect 6",
+      "item_id" : 26
+    },
+    "O41" : {
+      "currentStockAvailaible" : 9,
+      "id" : "O41",
+      "itemName" : "Other 1",
+      "item_id" : 41
+    },
+    "O42" : {
+      "currentStockAvailaible" : 42,
+      "id" : "O42",
+      "itemName" : "Other 2",
+      "item_id" : 42
+    },
+    "O43" : {
+      "currentStockAvailaible" : 12,
+      "id" : "O43",
+      "itemName" : "Other 3",
+      "item_id" : 43
+    },
+    "O44" : {
+      "currentStockAvailaible" : 15,
+      "id" : "O44",
+      "itemName" : "Other 4",
+      "item_id" : 44
+    },
+    "O45" : {
+      "currentStockAvailaible" : 81,
+      "id" : "O45",
+      "itemName" : "Other 5",
+      "item_id" : 45
+    },
+    "O46" : {
+      "currentStockAvailaible" : 91,
+      "id" : "O46",
+      "itemName" : "Other 6",
+      "item_id" : 46
+    },
+    "PP1111" : {
+      "currentStockAvailaible" : 17,
+      "id" : "PP1111",
+      "itemName" : "Kaos 1",
+      "item_id" : 1111
+    },
+    "PP1112" : {
+      "currentStockAvailaible" : 18,
+      "id" : "PP1112",
+      "itemName" : "Kaos 2",
+      "item_id" : "1112"
+    },
+    "PP1113" : {
+      "currentStockAvailaible" : 20,
+      "id" : "PP1113",
+      "itemName" : "kaos 3",
+      "item_id" : "1113"
+    },
+    "PP1114" : {
+      "currentStockAvailaible" : 21,
+      "id" : "PP1114",
+      "itemName" : "Kaos 4",
+      "item_id" : 1114
+    },
+    "PP1115" : {
+      "currentStockAvailaible" : 32,
+      "id" : "PP1115",
+      "itemName" : "Kaos 5",
+      "item_id" : 1115
+    },
+    "PP1121" : {
+      "currentStockAvailaible" : 19,
+      "id" : "PP1121",
+      "itemName" : "Kemeja 1",
+      "item_id" : 1121
+    },
+    "PP1122" : {
+      "currentStockAvailaible" : 13,
+      "id" : "PP1122",
+      "itemName" : "Kemeja 2",
+      "item_id" : 1122
+    },
+    "PP1123" : {
+      "currentStockAvailaible" : 41,
+      "id" : "PP1123",
+      "itemName" : "Kemeja 3",
+      "item_id" : 1123
+    },
+    "PP1124" : {
+      "currentStockAvailaible" : 81,
+      "id" : "PP1124",
+      "itemName" : "Kemeja 4",
+      "item_id" : 1124
+    },
+    "PP1125" : {
+      "currentStockAvailaible" : 12,
+      "id" : "PP1125",
+      "itemName" : "Kemeja 5",
+      "item_id" : 1125
+    },
+    "PP1131" : {
+      "currentStockAvailaible" : 3,
+      "id" : "PP1131",
+      "itemName" : "Celana 1",
+      "item_id" : 1131
+    },
+    "PP1132" : {
+      "currentStockAvailaible" : 12,
+      "id" : "PP1132",
+      "itemName" : "Celana 2",
+      "item_id" : 1132
+    },
+    "PP1133" : {
+      "currentStockAvailaible" : 9,
+      "id" : "PP1133",
+      "itemName" : "Celana 3",
+      "item_id" : 1133
+    },
+    "PP1134" : {
+      "currentStockAvailaible" : 11,
+      "id" : "PP1134",
+      "itemName" : "Celana 4",
+      "item_id" : 1134
+    },
+    "PP1141" : {
+      "currentStockAvailaible" : 33,
+      "id" : "PP1141",
+      "itemName" : "Sepatu 1",
+      "item_id" : 1141
+    },
+    "PP1142" : {
+      "currentStockAvailaible" : 22,
+      "id" : "PP1142",
+      "itemName" : "Sepatu 2",
+      "item_id" : 1142
+    },
+    "PP1143" : {
+      "currentStockAvailaible" : 33,
+      "id" : "PP1143",
+      "itemName" : "Sepatu 3",
+      "item_id" : 1143
+    },
+    "PP1144" : {
+      "currentStockAvailaible" : 12,
+      "id" : "PP1144",
+      "itemName" : "Sepatu 4",
+      "item_id" : 1144
+    },
+    "PP1145" : {
+      "currentStockAvailaible" : 17,
+      "id" : "PP1145",
+      "itemName" : "Sepatu 5",
+      "item_id" : 1145
+    },
+    "PP1146" : {
+      "currentStockAvailaible" : 15,
+      "id" : "PP1146",
+      "itemName" : "Sepatu 6",
+      "item_id" : 1146
+    },
+    "PW121" : {
+      "currentStockAvailaible" : 81,
+      "id" : "PW121",
+      "itemName" : "Dress 1",
+      "item_id" : 121
+    },
+    "PW122" : {
+      "currentStockAvailaible" : 76,
+      "id" : "PW122",
+      "itemName" : "Dress 2",
+      "item_id" : 122
+    },
+    "PW123" : {
+      "currentStockAvailaible" : 51,
+      "id" : "PW123",
+      "itemName" : "Dress 3",
+      "item_id" : 123
+    },
+    "PW124" : {
+      "currentStockAvailaible" : 61,
+      "id" : "PW124",
+      "itemName" : "Dress 4",
+      "item_id" : 124
+    },
+    "PW125" : {
+      "currentStockAvailaible" : 18,
+      "id" : "PW125",
+      "itemName" : "Dress 5",
+      "item_id" : 125
+    },
+    "PW126" : {
+      "currentStockAvailaible" : 17,
+      "id" : "PW126",
+      "itemName" : "Dress 6",
+      "item_id" : 126
+    }
+  }
+}
